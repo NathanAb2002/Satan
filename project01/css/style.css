@@ -1,0 +1,28 @@
+/* minha folha de estilo*/
+.contGal {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.imagens {
+    width: 100%;
+    margin-top: 20px;
+    display: flex;
+}
+
+.cartao {
+    width: 50%;
+    padding: 10px;
+    background-color: "#DCDCDC";
+    border: 1px solid black;
+}
+
+.cartao img{
+    width: 100%;
+}
+
+.cartao p {
+    font-size: 16px;
+    color: "#4682B4";
+    margin-top: 15px;
+}
